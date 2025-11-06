@@ -1,0 +1,5 @@
+{
+  "name": "Sorting & Searching Visualizer",
+  "description": "An interactive web application to visualize various sorting, searching, and greedy algorithms. See algorithms like Bubble Sort, Quick Sort, Binary Search, and the Knapsack problem in action.",
+  "requestFramePermissions": []
+}
